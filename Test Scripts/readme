@@ -1,0 +1,4 @@
+Basic scripts 
+
+TestGame - playes one game using simulator as specified in code
+LearnTest - performs CERL, produces optimized set of weights for specified features
